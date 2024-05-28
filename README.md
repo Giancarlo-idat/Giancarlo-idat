@@ -1,5 +1,5 @@
-<img src="https://camo.githubusercontent.com/ee9d678a838fdc800a7b1449bae75552c13bfa5afeb275eb6b315e02499c8ba0/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" height="30" width="40"  align="left">
-<h1 align="left" >Hi 👋, There </h1>
+<h1 align="left" >
+<img src="https://camo.githubusercontent.com/ee9d678a838fdc800a7b1449bae75552c13bfa5afeb275eb6b315e02499c8ba0/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" height="30" width="40"  align="top">Hi 👋, There </h1>
 
 <h3 align="left"> ✨ About me:</h3>
 <h4 align="justify">I'm Gian, Full Stack developer from Lima, Perú <img src="img/peru.png" alt="Perú" height="20" width="20" align="top">. I'm a graduate of the Information Systems Development degree. I love creating beautiful and functional web applications, and I'm always eager to learn new technologies and improve my skills.</h4>
